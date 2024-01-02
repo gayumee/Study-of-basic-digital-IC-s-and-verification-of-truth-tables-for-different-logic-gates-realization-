@@ -82,6 +82,8 @@ RTL realization
 
 Output:
 ![Exp1 wave](https://github.com/gayumee/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149037327/8a0a122a-92fc-4378-8b14-c555fd92a02e)
+RTL:
+![Exp1 RTL diagram](https://github.com/gayumee/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149037327/9c9832ed-056d-4033-bac6-ea18368d48c1)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
